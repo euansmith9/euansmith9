@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @euansmith9
 - 👀 I’m interested in working on projects to break into Data Analytics
-- 🌱 I’m currently learning Data Anlysis software such as SQL and Power BI
+- 🌱 I’m currently learning Data Analysis software such as SQL and Power BI
 - 📫 Reach me on Linkedin - https://www.linkedin.com/in/euan-smith-396270269/
 
 <!---
